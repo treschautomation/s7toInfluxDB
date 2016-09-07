@@ -1,0 +1,16 @@
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\bin\Debug\Test_InfluxDB.exe.config
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\bin\Debug\Test_InfluxDB.exe
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\bin\Debug\Test_InfluxDB.pdb
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\bin\Debug\InfluxDB.Collector.dll
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\bin\Debug\InfluxDB.LineProtocol.dll
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\obj\Debug\Test_InfluxDB.csprojResolveAssemblyReference.cache
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\obj\Debug\Test_InfluxDB.Form1.resources
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\obj\Debug\Test_InfluxDB.Properties.Resources.resources
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\obj\Debug\Test_InfluxDB.csproj.GenerateResource.Cache
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\obj\Debug\Test_InfluxDB.exe
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\obj\Debug\Test_InfluxDB.pdb
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\bin\Debug\DotNetSiemensPLCToolBoxLibrary.dll
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\bin\Debug\DotNetSiemensPLCToolBoxLibrary.pdb
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\bin\Debug\en\DotNetSiemensPLCToolBoxLibrary.resources.dll
+C:\Users\dome\Google Drive\Programme\VisualStudio\Projects\Test\Test_InfluxDB\Test_InfluxDB\bin\Debug\es\DotNetSiemensPLCToolBoxLibrary.resources.dll
